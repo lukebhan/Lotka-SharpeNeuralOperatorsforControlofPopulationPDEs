@@ -1,9 +1,9 @@
 <div align="center">
   <a href="https://ccsd.ucsd.edu/home">
-    <img align="left" src="docs/media/CCSD.png" width="400" height="60" alt="ccsd">
+    <img align="left" src="figures/CCSD.png" width="400" height="60" alt="ccsd">
   </a>
   <a href="https://ucsd.edu/">
-    <img align="right" src="docs/media/ucsd.png" width="260" alt="ucsd">
+    <img align="right" src="figures/ucsd(1).png" width="260" alt="ucsd">
   </a>
 </div>
 
@@ -12,15 +12,15 @@
 # Adaptive Neural-Operator Control for Age-Structured Two-Species Dynamics
 
 <div align="center">
- <a href="#"><img alt="Operator figure" src="docs/media/operator_figure.png" width="100%"/></a>
+ <a href="#"><img alt="Operator figure" src="figures/tac_operator_figure.png" width="100%"/></a>
 </div>
 
 <div align="center">
- <a href="#"><img alt="Adaptive control figure top" src="docs/media/adaptive_top.png" width="100%"/></a>
+ <a href="#"><img alt="Adaptive control figure top" src="figures/tac_adaptive_figure_top.png" width="100%"/></a>
 </div>
 
 <div align="center">
- <a href="#"><img alt="Adaptive control figure bottom" src="docs/media/adaptive_bottom.png" width="100%"/></a>
+ <a href="#"><img alt="Adaptive control figure bottom" src="figures/tac_adaptive_figure_bottom.png" width="100%"/></a>
 </div>
 
 ## About this repository
