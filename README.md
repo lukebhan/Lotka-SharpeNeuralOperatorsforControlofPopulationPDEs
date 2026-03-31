@@ -49,7 +49,7 @@ Dependencies: `numpy`, `pandas`, `matplotlib`, `torch`, `neuraloperator`.
 Pretrained datasets and models for this repository are already organized around the local `datasets/` and `models/` folders.
 
 - Datasets: https://huggingface.co/datasets/lukebhan/NeuralOperatorsLotkaSharpePredatoryPrey
-- Models: 
+- Models: https://huggingface.co/lukebhan/NeuralOperatorsLotkaSharpePredatoryPrey
 
 If you download or regenerate these resources separately, place dataset files in `datasets/` and model checkpoints in `models/`.
 
