@@ -58,7 +58,7 @@ If you download or regenerate these resources separately, place dataset files in
 After installation, you can generate the main figures directly from the provided scripts:
 
 ```bash
-python scripts/make_tac_operator_figure.py
+python scripts/make_tac_operator_figure.py # must be run before tac_adaptive or tac_sim
 python scripts/make_tac_adaptive.py
 ```
 
